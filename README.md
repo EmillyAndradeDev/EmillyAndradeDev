@@ -33,3 +33,10 @@ Sou organizada, curiosa, comunicativa e movida por desafios. Acredito que o dese
 | **Portfólio** | [EmillyAndradeDev](https://emillyandradedev.github.io/portfolio-emilly-andrade-dev/) |
 
 ---
+
+### 📊 Estatísticas do GitHub (Opcional, mas popular!)
+
+![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=[EmillyAndradeDev]&show_icons=true&theme=vue)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=[EmillyAndradeDev]&layout=compact&theme=vue)
+
+---
