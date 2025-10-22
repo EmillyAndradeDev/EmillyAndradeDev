@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou Emilly Andrade 👋
 
-<!--
-**EmillyAndradeDev/EmillyAndradeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre Mim
 
-Here are some ideas to get you started:
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e futura desenvolvedora **full stack**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha trajetória começou na área de humanas e passou por docência e design gráfico. Foi nesse caminho que descobri a tecnologia como ponte entre criatividade e impacto real.
+
+---
+
+### 💡 Foco Técnico
+
+Atualmente, estou focada no **desenvolvimento web**:
+
+* **Front-end**: HTML5, CSS3 (Flexbox, Grid, responsividade e animações), JavaScript e TypeScript para criação de interfaces dinâmicas, manipulação do DOM e aplicação de lógica avançada.
+* **Back-end**: Node.js, REST APIs, modularização de projetos (CommonJS e ESM), manipulação de JSON e automação de tarefas com npm. Aplico boas práticas de debugging, testes e manutenção de códigos.
+
+Tenho experiência com **controle de versão** (Git e GitHub), colaboração em projetos *open source* e **metodologias ágeis** (Scrum e Kanban), buscando sempre soluções eficientes com foco em **acessibilidade, usabilidade e UX**.
+
+---
+
+### ✨ Soft Skills
+
+Sou organizada, curiosa, comunicativa e movida por desafios. Acredito que o desenvolvimento full stack envolve **colaboração, empatia e pensamento crítico** para criar produtos que realmente resolvam problemas e causem impacto positivo.
+
+---
+
+### 🌐 Conecte-se Comigo
+
+| Rede Social | Link |
+| :---: | :---: |
+| **LinkedIn** | [emillyandradedev]([https://www.linkedin.com/in/emillyandradedev/]) |
+| **Portfólio** | [EmillyAndradeDev](https://emillyandradedev.github.io/portfolio-emilly-andrade-dev/) |
+
+---
