@@ -8,6 +8,18 @@ Minha trajetória começou na área de humanas e passou por docência e design g
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillyAndradeDev&layout=compact&theme=dracula&hide_border=true" alt="Top Linguagens" />
+</div>
+
+#### 🐍 Minha Atividade
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EmillyAndradeDev/EmillyAndradeDev/output/github-snake.svg" alt="GitHub Snake Animation" />
+</div>
+
+---
+
 ### 💡 Foco Técnico
 
 Atualmente, estou focada no **desenvolvimento web**:
@@ -38,23 +50,6 @@ Atualmente, estou focada no **desenvolvimento web**:
 ### ✨ Soft Skills
 
 Sou organizada, curiosa, comunicativa e movida por desafios. Acredito que o desenvolvimento full stack envolve **colaboração, empatia e pensamento crítico** para criar produtos que realmente resolvam problemas e causem impacto positivo.
-
----
-
----
-
-### 📊 Estatísticas e Atividade
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmillyAndradeDev&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillyAndradeDev&layout=compact&theme=dracula&hide_border=true" alt="Top Linguagens" />
-</div>
-
-#### 🐍 Minha Atividade
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/EmillyAndradeDev/EmillyAndradeDev/output/github-snake.svg" alt="GitHub Snake Animation" />
-</div>
 
 ___
 

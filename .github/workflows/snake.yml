@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Roda a cada 6 horas
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        id: snake_gif
+        with:
+          github_user_name: EmillyAndradeDev
+          outputs: |
+            ./github-snake.svg
+            ./github-snake-dark.svg?palette=github-dark
+            
+      - uses: actions/upload-artifact@v2
+        with:
+          name: github-snake
+          path: ./*.svg
+          
+      - uses: actions/commit-push@v2
+        with:
+          branch: main
+          message: "docs: update snake animation"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
