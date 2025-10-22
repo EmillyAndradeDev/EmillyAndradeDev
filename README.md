@@ -15,7 +15,7 @@ Minha trajetória começou na área de humanas e passou por docência e design g
 #### 🐍 Minha Atividade
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/EmillyAndradeDev/EmillyAndradeDev/output/github-snake.gif" alt="GitHub Snake Animation" style="max-width: 90%; margin: 10px auto;" />
+  <img src="https://raw.githubusercontent.com/EmillyAndradeDev/EmillyAndradeDev/main/github-snake.gif" alt="GitHub Snake Animation" style="max-width: 90%; margin: 10px auto;" />
 </div>
 
 ---
