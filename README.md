@@ -36,7 +36,7 @@ Sou organizada, curiosa, comunicativa e movida por desafios. Acredito que o dese
 
 ### 📊 Estatísticas do GitHub (Opcional, mas popular!)
 
-![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=[EmillyAndradeDev]&show_icons=true&theme=vue)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=[EmillyAndradeDev]&layout=compact&theme=vue)
+![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=[https://github.com/EmillyAndradeDev]&show_icons=true&theme=vue)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=[https://github.com/EmillyAndradeDev]&layout=compact&theme=vue)
 
 ---
