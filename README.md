@@ -57,7 +57,7 @@ ___
 
 | Rede Social | Link |
 | :---: | :---: |
-| **LinkedIn** | [emillyandradedev]([https://www.linkedin.com/in/emillyandradedev/]) |
+| **LinkedIn** | [emillyandradedev](https://www.linkedin.com/in/emillyandradedev/) |
 | **Portfólio** | [EmillyAndradeDev](https://emillyandradedev.github.io/portfolio-emilly-andrade-dev/) |
 
 ---
