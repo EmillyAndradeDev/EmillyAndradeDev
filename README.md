@@ -12,7 +12,7 @@ Olá! Sou Emilly, uma entusiasta do desenvolvimento de software com paixão pela
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e futura desenvolvedora **full stack**.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e futura desenvolvedora full stack. Minha trajetória começou na área de humanas e passou por experiências com docência, atendimento ao público e design gráfico, foi nesse caminho que descobri a tecnologia como ponte entre criatividade e impacto real.
+Minha trajetória começou na área de humanas e passou por experiências com docência, atendimento ao público e design gráfico, foi nesse caminho que descobri a tecnologia como ponte entre criatividade e impacto real.
 
 Atualmente, estou focada no **desenvolvimento web**, com foco em **front-end** usando HTML5, CSS3 (Flexbox, Grid, responsividade e animações), JavaScript e TypeScript para criação de interfaces dinâmicas, manipulação do DOM e aplicação de lógica de programação avançada. No **back-end**, trabalho com Node.js, REST APIs, modularização de projetos com CommonJS e ESM, manipulação de JSON, integração de sistemas e automação de tarefas utilizando npm. Também aplico boas práticas de debugging, testes e manutenção de códigos.
 
