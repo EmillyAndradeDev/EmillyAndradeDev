@@ -15,6 +15,13 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e futura **Desenvolv
 Atualmente, estou 100% focada no **desenvolvimento front-end**. Já possuo uma base sólida em HTML5, CSS3 (incluindo **Flexbox, Grid e responsividade**) e JavaScript/TypeScript para criação de interfaces dinâmicas, manipulação do DOM e aplicação de lógica de programação. Também tenho noções de **back-end** com **Node.js**, o que me ajuda a entender como **consumir APIs RESTful** de forma eficiente, completando o ciclo do desenvolvimento.
 
 ---
+## 🌐 Visite meu Portfólio
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-D96299?style=plastic&logo=github&logoColor=white)](https://portfolio-emilly-andrade-dev.vercel.app/index.html)
+
+[![Preview do Portfólio](screenshot-portfolio-emillyandradedev.png)](https://portfolio-emillyandradedev.vercel.app)
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillyAndradeDev&layout=compact&theme=dracula&hide_border=true" alt="Top Linguagens" />
@@ -33,7 +40,7 @@ Atualmente, estou 100% focada no **desenvolvimento front-end**. Já possuo uma b
 | Categoria | Tecnologias |
 | :--- | :--- |
 | 🎨 **Front-end (Foco Principal)** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-81749c?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white) |
-| 🌱 **Aprendendo Atualmente** | ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB) |
+| 🌱 **Aprendendo Atualmente** | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB) |
 | 🔧 **Back-end & DevOps (básico)** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=plastic&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOSAxOXYtNGE1IDUgMCAwIDEgNS01aDNhMiAyIDAgMCAxIDIgMnY0Yy0xLjY1IDAtMy0xLjM1LTMtMy0xLjY1IDAtMyAxLjM1LTMgM3oiPjwvcGF0aD48L3N2Zz4=&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=plastic&logo=npm&logoColor=white) |
 | 🧰 **Ferramentas & Outras** | ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-1C2A3A?style=plastic&logo=visual-studio-code&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0079BF?style=plastic&logo=trello&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-745549?style=plastic&logo=google&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=plastic&logo=openai&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=plastic&logo=github&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=plastic&logo=microsoft-word&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white) |
 ---
@@ -126,12 +133,6 @@ ___
   </tr>
 
 </table>
-
----
-
-### 🌐 Visite meu Portfólio
-
-[![Portfólio](https://img.shields.io/badge/Portfólio-D96299?style=plastic&logo=github&logoColor=white)](https://emillyandradedev.github.io/portfolio-emilly-andrade-dev/)
 
 ---
 
